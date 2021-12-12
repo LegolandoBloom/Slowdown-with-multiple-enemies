@@ -1,0 +1,10 @@
+del *.o
+del *.gb
+del *.rel
+del *.ihx
+del *.lst
+del *.map
+del *.sym
+del *.sav
+del *.adb
+del *.asm
